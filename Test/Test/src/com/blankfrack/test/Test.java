@@ -4,7 +4,7 @@
 package com.blankfrack.test;
 
 /**
- * @author bux
+ * @author Blankfrack
  *
  */
 public class Test {
