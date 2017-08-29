@@ -27,5 +27,8 @@ public class Test {
 		learner.learn(new Info("Bill", "Murphy"));
 	
 		System.out.println(learner.toString());
+		
+		
+		System.out.println("Eclipse Oxygen MDF");
 	}
 }
