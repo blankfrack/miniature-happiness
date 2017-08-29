@@ -29,8 +29,7 @@ public class Test {
 		System.out.println(learner.toString());
 		
 		
-		System.out.println("Eclipse Oxygen MDF");
-		
+		System.out.println("Eclipse Oxygen MDF");		
 		System.out.println("#2");
 	}
 }
